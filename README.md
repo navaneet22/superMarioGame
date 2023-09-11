@@ -1,1 +1,1 @@
-mario game using html  and javascript
+mario game using kombo.js
